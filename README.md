@@ -36,10 +36,10 @@ It covers the entire flow from **ingesting raw CSV data in S3 → loading it int
 ---
 
 ## Project Structure
-  snowflake-s3-pipeline/.
-  ├── scripts/.
-   └── snowflake_pipeline.sql # SQL script with full pipeline setup.
-  └── README.md # Documentation.
+  snowflake-s3-pipeline/
+  ├── scripts/
+   └── snowflake_pipeline.sql # SQL script with full pipeline setup
+  └── README.md # Documentation
 
 ---
 
